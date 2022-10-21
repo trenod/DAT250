@@ -10,4 +10,4 @@ I encountered no major technical problems, although Angular was quite technical 
 
 ## Any pending issues with this assignment which you did not manage to solve
 
-I didn't really get started with the coding of Experiment 2 until the day of the deadline, so I haven't yet finished it.
+The code doesn't do what it should, but it's mostly implemented and should work with some minor tweaks.
